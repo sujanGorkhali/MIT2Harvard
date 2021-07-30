@@ -1,6 +1,7 @@
 # **MIT2Harvard**
-## This project demonstrate geospatial location of MBTA bus stops from MIT to Harvard utilizing mapbox. In this project coordinates for MBTA stops are overlaid on top of the map provided by <a href="https://www.mapbox.com/about/company//"> mapbox </a>.
 <img src="Mit2Harvard.PNG" width='150' />
+This project demonstrate geospatial location of MBTA bus stops from MIT to Harvard utilizing mapbox. In this project coordinates for MBTA stops are overlaid on top of the map provided by <a href="https://www.mapbox.com/about/company//"> mapbox </a>.
+
 
 # How to Run
 This project can be directly accessed by navigating to following link <a href="https://sujangorkhali.github.io/MIT2Harvard/"> MIT to Harvard </a>.
