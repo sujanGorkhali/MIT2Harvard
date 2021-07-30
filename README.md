@@ -15,7 +15,7 @@ In the next phase this project will introduce realtime tracking using data provi
 # License information: 
 MIT License
 
-Copyright (c) 2020 kogsio
+Copyright (c) MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
